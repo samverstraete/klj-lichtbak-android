@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">KLJ Zomergem lichtbakken</string>
+    <string name="action_settings">Settings</string>
+    <string name="btnChangeColor">Kleur veranderen</string>
+    <string name="btnRefresh">Vernieuwen</string>
+    <string-array name="servers">
+        <item>min16</item>
+        <item>plus16</item>
+        <item>plus18</item>
+        <item>zuipkaarten</item>
+        <item>bar</item>
+        <item>cocktailbar</item>
+        <item>uitgang</item>
+        <item>vestiaire</item>
+    </string-array>
+    <string-array name="modus">
+        <item>kleur</item>
+        <item>a</item>
+        <item>b</item>
+        <item>c</item>
+    </string-array>
+</resources>
